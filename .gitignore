@@ -1,0 +1,18 @@
+# ignoring specific file
+.env
+
+#ignoring specific directories
+# /Sound_of_AI_2/data
+# /Sound_of_AI_3/data
+/Sound_of_AI_2/.ipynb_checkpoints
+/Sound_of_AI_3/.ipynb_checkpoints
+
+# ignoring all data folders
+**/data
+
+#ignoring specific extensions
+*.env
+*.log
+
+#adding an excepion: "use '!' at the start"
+# !important.log
