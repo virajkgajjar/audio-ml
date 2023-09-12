@@ -6,6 +6,8 @@
 # /Sound_of_AI_3/data
 /Sound_of_AI_2/.ipynb_checkpoints
 /Sound_of_AI_3/.ipynb_checkpoints
+/Sound_of_AI_4/.ipynb_checkpoints
+/Sound_of_AI_4/UrbanSound8K
 
 # ignoring all data folders
 **/data
